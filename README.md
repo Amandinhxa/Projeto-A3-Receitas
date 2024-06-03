@@ -58,6 +58,7 @@ Este projeto é composto por duas partes principais: a API e o Aplicativo. A pas
 
 ## Como criar o banco de dados
 ![abra o pgadmin e siga esses passos](image.png)
+- Copie todo o conteudo do db.sql, cole e rode(F5)
 ---
 
 Feito com ❤️ por amandinha
